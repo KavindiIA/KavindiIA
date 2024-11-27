@@ -5,7 +5,7 @@
   <h3 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=12def5&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+software+engineering+student+at+NIBM." /></a></h3>
 </p>
 
-<h3 align="center"><img src = "https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width = 250px></h3> 
+<h3 align="center"><img src = "https://media1.tenor.com/m/yPglcEf0EBAAAAAd/lx28-hacker.gif" width = 250px></h3> 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -85,10 +85,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=KavindiIA&show_icons=true&theme=radical" alt="Kavindi's GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KavindiIA&theme=radical" alt="GitHub Streak">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KavindiIA&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KavindiIA&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<p align="center"></p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
