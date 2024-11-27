@@ -12,7 +12,7 @@
 ### 🌟 About Me
 
 - 🎓 Pursuing **Diploma in Software Engineering** at NIBM.  
-- 🎮 🎮 Passionate game developer, creating engaging 2D experiences with Godot 4.0.  
+- 🎮 Passionate game developer, creating engaging 2D experiences with Godot 4.0.  
 - 💻 Passionate about crafting seamless user experiences with technologies.  
 - 🌱 Always learning, exploring, and growing!
 <br>
